@@ -1,0 +1,1 @@
+csc -r:NtfsReader.dll loca.cs 
